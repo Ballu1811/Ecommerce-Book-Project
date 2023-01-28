@@ -1,0 +1,12 @@
+D:\ASP.NET_CORE Projects\Ecomm_BookProject_2\Ecomm_BookProject_2_Utility\bin\Debug\net5.0\Ecomm_BookProject_2_Utility.deps.json
+D:\ASP.NET_CORE Projects\Ecomm_BookProject_2\Ecomm_BookProject_2_Utility\bin\Debug\net5.0\Ecomm_BookProject_2_Utility.dll
+D:\ASP.NET_CORE Projects\Ecomm_BookProject_2\Ecomm_BookProject_2_Utility\bin\Debug\net5.0\ref\Ecomm_BookProject_2_Utility.dll
+D:\ASP.NET_CORE Projects\Ecomm_BookProject_2\Ecomm_BookProject_2_Utility\bin\Debug\net5.0\Ecomm_BookProject_2_Utility.pdb
+D:\ASP.NET_CORE Projects\Ecomm_BookProject_2\Ecomm_BookProject_2_Utility\obj\Debug\net5.0\Ecomm_BookProject_2_Utility.csproj.AssemblyReference.cache
+D:\ASP.NET_CORE Projects\Ecomm_BookProject_2\Ecomm_BookProject_2_Utility\obj\Debug\net5.0\Ecomm_BookProject_2_Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET_CORE Projects\Ecomm_BookProject_2\Ecomm_BookProject_2_Utility\obj\Debug\net5.0\Ecomm_BookProject_2_Utility.AssemblyInfoInputs.cache
+D:\ASP.NET_CORE Projects\Ecomm_BookProject_2\Ecomm_BookProject_2_Utility\obj\Debug\net5.0\Ecomm_BookProject_2_Utility.AssemblyInfo.cs
+D:\ASP.NET_CORE Projects\Ecomm_BookProject_2\Ecomm_BookProject_2_Utility\obj\Debug\net5.0\Ecomm_BookProject_2_Utility.csproj.CoreCompileInputs.cache
+D:\ASP.NET_CORE Projects\Ecomm_BookProject_2\Ecomm_BookProject_2_Utility\obj\Debug\net5.0\Ecomm_BookProject_2_Utility.dll
+D:\ASP.NET_CORE Projects\Ecomm_BookProject_2\Ecomm_BookProject_2_Utility\obj\Debug\net5.0\ref\Ecomm_BookProject_2_Utility.dll
+D:\ASP.NET_CORE Projects\Ecomm_BookProject_2\Ecomm_BookProject_2_Utility\obj\Debug\net5.0\Ecomm_BookProject_2_Utility.pdb
